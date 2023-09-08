@@ -1,5 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@600&display=swap');
+
+.correct {
+  font-weight: bold;
+  color: rgb(63, 224, 63);
+}
+
+.incorrect {
+  font-weight: bold;
+  color: rgb(255, 119, 0);
+}
+
+.heading {
+  color: white;
+}
+
+.active {
+  font-weight: bold ;
+  color: rgb(255, 255, 255);
+}
+
 .App {
+  align-items: center;
+  color: rgb(112, 107, 107);
+  font-size: 25px;
+  font-family: 'JetBrains Mono', monospace;
   text-align: center;
+}
+
+.container{
+  align-items: center;
+  margin: auto 10%;
+}
+
+.word {
+  border: 1px dashed black;
+  border-radius: 10px;
+  font-weight: bold;
+  padding: 25px;
 }
 
 .App-logo {
@@ -11,6 +48,10 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.inputsize {
+  align-items: center;
 }
 
 .App-header {
