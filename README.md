@@ -1,3 +1,7 @@
+# A sample view of the website:
+
+link [https://typingdojo.netlify.app/](https://typingdojo.netlify.app) to view it in your browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
